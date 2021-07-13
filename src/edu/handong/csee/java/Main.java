@@ -22,7 +22,7 @@ public class Main {
         for(j = 0; j < i; j++){
           if(newnum == number[j]){
             System.out.println("Invalid input!");
-            i--;
+            i--;  // 이 방법 기억해놓기!!
           }
         }
 
